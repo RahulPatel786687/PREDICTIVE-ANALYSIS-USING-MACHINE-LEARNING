@@ -21,7 +21,7 @@ Exploratory Data Analysis (EDA) is performed using visualizations like correlati
 
 The dataset is then divided into independent variables (features) and the target variable (house price). After preprocessing, the data is split into training and testing sets using the train-test split method.
 
-Two regression models are implemented in this project:
+# Two regression models are implemented in this project:
 
 Linear Regression
 Random Forest Regressor
@@ -32,7 +32,7 @@ To improve prediction accuracy, a Random Forest Regressor model is also implemen
 
 The project includes various graphs and plots for better data understanding and result visualization. It provides hands-on experience with Regression algorithms, data analysis, predictive modeling, and Machine Learning workflows.
 
-Technologies and Libraries Used
+# Technologies and Libraries Used
 Python
 Pandas
 NumPy
@@ -42,7 +42,7 @@ Scikit-learn
 Jupyter Notebook / Google Colab
 Platform Accessibility
 
-This project is accessible and can be executed on:
+# This project is accessible and can be executed on:
 
 Jupyter Notebook
 Google Colab
